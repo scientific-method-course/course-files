@@ -1,0 +1,1 @@
+c:\anaconda3\python.exe -m notebook "class_notebook.ipynb"
