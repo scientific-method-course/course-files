@@ -18,8 +18,6 @@ global_handle = None
 
 output_notebook()
 
-
-
 class model_interface:
     def __init__(self,inp):
         # define plot:
